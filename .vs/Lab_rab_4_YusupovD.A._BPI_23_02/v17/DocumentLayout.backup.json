@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\danilaa\\projects\\vp\\Lab_rab_4_YusupovD.A._BPI_23_02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA440B5A-1753-457C-AFE1-1D7216383E94}|Lab_rab_4_YusupovD.A._BPI_23_02.csproj|c:\\users\\danilaa\\projects\\vp\\lab_rab_4_yusupovd.a._bpi_23_02\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FA440B5A-1753-457C-AFE1-1D7216383E94}|Lab_rab_4_YusupovD.A._BPI_23_02.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA440B5A-1753-457C-AFE1-1D7216383E94}|Lab_rab_4_YusupovD.A._BPI_23_02.csproj|C:\\Users\\danilaa\\projects\\vp\\Lab_rab_4_YusupovD.A._BPI_23_02\\viewmodel\\roleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA440B5A-1753-457C-AFE1-1D7216383E94}|Lab_rab_4_YusupovD.A._BPI_23_02.csproj|solutionrelative:viewmodel\\roleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA440B5A-1753-457C-AFE1-1D7216383E94}|Lab_rab_4_YusupovD.A._BPI_23_02.csproj|C:\\Users\\danilaa\\projects\\vp\\Lab_rab_4_YusupovD.A._BPI_23_02\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA440B5A-1753-457C-AFE1-1D7216383E94}|Lab_rab_4_YusupovD.A._BPI_23_02.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA440B5A-1753-457C-AFE1-1D7216383E94}|Lab_rab_4_YusupovD.A._BPI_23_02.csproj|c:\\users\\danilaa\\projects\\vp\\lab_rab_4_yusupovd.a._bpi_23_02\\helper\\findrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA440B5A-1753-457C-AFE1-1D7216383E94}|Lab_rab_4_YusupovD.A._BPI_23_02.csproj|solutionrelative:helper\\findrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA440B5A-1753-457C-AFE1-1D7216383E94}|Lab_rab_4_YusupovD.A._BPI_23_02.csproj|c:\\users\\danilaa\\projects\\vp\\lab_rab_4_yusupovd.a._bpi_23_02\\model\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA440B5A-1753-457C-AFE1-1D7216383E94}|Lab_rab_4_YusupovD.A._BPI_23_02.csproj|solutionrelative:model\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA440B5A-1753-457C-AFE1-1D7216383E94}|Lab_rab_4_YusupovD.A._BPI_23_02.csproj|c:\\users\\danilaa\\projects\\vp\\lab_rab_4_yusupovd.a._bpi_23_02\\model\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA440B5A-1753-457C-AFE1-1D7216383E94}|Lab_rab_4_YusupovD.A._BPI_23_02.csproj|solutionrelative:model\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA440B5A-1753-457C-AFE1-1D7216383E94}|Lab_rab_4_YusupovD.A._BPI_23_02.csproj|C:\\Users\\danilaa\\projects\\vp\\Lab_rab_4_YusupovD.A._BPI_23_02\\viewmodel\\personviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA440B5A-1753-457C-AFE1-1D7216383E94}|Lab_rab_4_YusupovD.A._BPI_23_02.csproj|solutionrelative:viewmodel\\personviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\danilaa\\projects\\vp\\Lab_rab_4_YusupovD.A._BPI_23_02\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\danilaa\\projects\\vp\\Lab_rab_4_YusupovD.A._BPI_23_02\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-22T10:39:37.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\danilaa\\projects\\vp\\Lab_rab_4_YusupovD.A._BPI_23_02\\Model\\Person.cs",
+              "RelativeDocumentMoniker": "Model\\Person.cs",
+              "ToolTip": "C:\\Users\\danilaa\\projects\\vp\\Lab_rab_4_YusupovD.A._BPI_23_02\\Model\\Person.cs",
+              "RelativeToolTip": "Model\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T10:38:53.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\danilaa\\projects\\vp\\Lab_rab_4_YusupovD.A._BPI_23_02\\Model\\Role.cs",
+              "RelativeDocumentMoniker": "Model\\Role.cs",
+              "ToolTip": "C:\\Users\\danilaa\\projects\\vp\\Lab_rab_4_YusupovD.A._BPI_23_02\\Model\\Role.cs",
+              "RelativeToolTip": "Model\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T10:38:34.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FindRole.cs",
+              "DocumentMoniker": "C:\\Users\\danilaa\\projects\\vp\\Lab_rab_4_YusupovD.A._BPI_23_02\\Helper\\FindRole.cs",
+              "RelativeDocumentMoniker": "Helper\\FindRole.cs",
+              "ToolTip": "C:\\Users\\danilaa\\projects\\vp\\Lab_rab_4_YusupovD.A._BPI_23_02\\Helper\\FindRole.cs",
+              "RelativeToolTip": "Helper\\FindRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T10:36:04.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PersonViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\danilaa\\projects\\vp\\Lab_rab_4_YusupovD.A._BPI_23_02\\ViewModel\\PersonViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\PersonViewModel.cs",
+              "ToolTip": "C:\\Users\\danilaa\\projects\\vp\\Lab_rab_4_YusupovD.A._BPI_23_02\\ViewModel\\PersonViewModel.cs",
+              "RelativeToolTip": "ViewModel\\PersonViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T10:35:21.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RoleViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\danilaa\\projects\\vp\\Lab_rab_4_YusupovD.A._BPI_23_02\\ViewModel\\RoleViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\RoleViewModel.cs",
+              "ToolTip": "C:\\Users\\danilaa\\projects\\vp\\Lab_rab_4_YusupovD.A._BPI_23_02\\ViewModel\\RoleViewModel.cs",
+              "RelativeToolTip": "ViewModel\\RoleViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T10:35:10.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\danilaa\\projects\\vp\\Lab_rab_4_YusupovD.A._BPI_23_02\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\danilaa\\projects\\vp\\Lab_rab_4_YusupovD.A._BPI_23_02\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T10:01:14.126Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
